@@ -1,3 +1,14 @@
 hi there 
  this is sandeep 
   
+Git branch branchname
+Git checkout branchname
+Git checkout –b branchname
+Git merge branch-name
+Git merge  --abort
+Git config –global alias.aliasname  “original name”
+Git config –list
+Git rebase branch-name
+Git revert cid
+Git branch –d  branch-name
+Git push origin –d branch-name
